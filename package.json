@@ -1,0 +1,15 @@
+{
+  "name": "current",
+  "version": "1.0.0",
+  "description": "lesson 1",
+  "main": "current.js",
+  "bin": {
+    "current": "current.js"
+  },
+  "repository": "git@github.com:MinSalmy/backend.git",
+  "author": "minsalmy",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
